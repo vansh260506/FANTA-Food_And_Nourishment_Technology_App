@@ -236,6 +236,15 @@ You are free to use, modify, and distribute this software for personal or commer
 <div align="center">
 🌟 Fanta App
 Reducing food waste. Feeding communities. One delivery at a time.
+<img width="434" height="762" alt="image" src="https://github.com/user-attachments/assets/b5ad2303-ee8b-47aa-a804-ecf76886c47f" />
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a7a21da1-bb96-490b-a73a-3efc72583013" />
+
+<img width="440" height="782" alt="image" src="https://github.com/user-attachments/assets/5c98d0f0-b1fb-4fc3-807b-0e4040ce1430" />
+
+<img width="440" height="782" alt="image" src="https://github.com/user-attachments/assets/24565eaf-e31d-43e7-9a65-6ed1929ba530" />
+
+<img width="444" height="842" alt="image" src="https://github.com/user-attachments/assets/35026481-42c3-487b-b63c-a46e46a2a908" />
 
 Made with ❤️ in Bangalore, India
 
