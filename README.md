@@ -238,7 +238,8 @@ You are free to use, modify, and distribute this software for personal or commer
 Reducing food waste. Feeding communities. One delivery at a time.
 <img width="434" height="762" alt="image" src="https://github.com/user-attachments/assets/b5ad2303-ee8b-47aa-a804-ecf76886c47f" />
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a7a21da1-bb96-490b-a73a-3efc72583013" />
+<img width="510" height="1024" alt="image" src="https://github.com/user-attachments/assets/2f48d2ad-1f40-43e0-b441-2403e5e79273" />
+
 
 <img width="440" height="782" alt="image" src="https://github.com/user-attachments/assets/5c98d0f0-b1fb-4fc3-807b-0e4040ce1430" />
 
