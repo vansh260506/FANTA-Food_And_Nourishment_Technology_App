@@ -1,5 +1,7 @@
 # FANTA-Food_And_Nourishment_Technology_App
 Fanta x Savethe#MotherEarth
+
+
 About the Project
 Fanta App is a cross-platform mobile application built with Flutter that bridges the gap between food donors and recipients in need. It provides a simple, reliable way for individuals and organizations to donate surplus food, request food based on real needs, and coordinate deliveries through a dedicated driver dashboard.
 
